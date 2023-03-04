@@ -1,1 +1,1 @@
-# ineuron-ML-Bootcamp Online CLass notes
+# ineuron-ML-Bootcamp Online 
